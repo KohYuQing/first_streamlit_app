@@ -6,3 +6,5 @@ streamlit.markdown('🥣 Omega 3 & Blueberry Oatmeal')
 streamlit.markdown('🥗 Kale, Spinach & Rocket Smoothie')
 streamlit.markdown('🐔 Hard-Boiled Free-Range Egg')
 streamlit.markdown('🥑🍞 Avocado Toast')
+streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
+
